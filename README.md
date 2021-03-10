@@ -1,14 +1,12 @@
 ## Hi, I'm Scott 👋
 - 😄 Pronouns: he/him/his
 - 🕸️ I love building for the web!
-- 📈 I'm currently focused on data science & visualization.
+- 📈 Currently focused on data science & visualization.
 - 🐍 Loving Python & Pandas 🐼
+- 🖥️ Check out my website: https://scott-gall.com/
 - 📫 Message me: scottarthurgall@gmail.com
 - 🤝 Connect with me: https://www.linkedin.com/in/scottarthurgall/
-- 🛹 I've been skateboarding for 20 years. Check out my [videos](https://www.youtube.com/channel/UC4iwTXdc--yBZ_5PY-QFUiA)!
-- 🧀 Ask me about cheese
-
-
+- 🛹 I've been skateboarding for 20 years. Check out my [videos](https://www.youtube.com/channel/UC4iwTXdc--yBZ_5PY-QFUiA)
 <!--
 **scottgall/scottgall** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

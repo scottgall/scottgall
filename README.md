@@ -1,4 +1,9 @@
-### Hi there 👋
+## Hi there 👋
+- 🕸️ I love building for the web!
+- 📫 How to reach me: scottarthurgall@gmail.com
+- 😄 Pronouns: he/him/his
+- 🛹 Fun fact: I've been skateboarding for 20 years. Check out my [videos](https://www.youtube.com/channel/UC4iwTXdc--yBZ_5PY-QFUiA)!
+
 
 <!--
 **scottgall/scottgall** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

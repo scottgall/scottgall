@@ -6,7 +6,7 @@
 - 🖥️ Check out my website: https://scott-gall.com/
 - 📫 Message me: scottarthurgall@gmail.com
 - 🤝 Connect with me: https://www.linkedin.com/in/scottarthurgall/
-- 🛹 I've been skateboarding for 20 years. Check out my [videos](https://www.youtube.com/channel/UC4iwTXdc--yBZ_5PY-QFUiA)
+- 🛹 I've been skateboarding for 20 years. Check out my [YouTube channel](https://www.youtube.com/channel/UC4iwTXdc--yBZ_5PY-QFUiA)!
 <!--
 **scottgall/scottgall** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

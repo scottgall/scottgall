@@ -1,5 +1,6 @@
 ## Hi there 👋
 - 🕸️ I love building for the web!
+- 🐍 I'm currently learning Python & Pandas 🐼
 - 📫 How to reach me: scottarthurgall@gmail.com
 - 😄 Pronouns: he/him/his
 - 🛹 Fun fact: I've been skateboarding for 20 years. Check out my [videos](https://www.youtube.com/channel/UC4iwTXdc--yBZ_5PY-QFUiA)!

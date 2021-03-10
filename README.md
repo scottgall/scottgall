@@ -1,7 +1,7 @@
 ## Hi, I'm Scott 👋
 - 😄 Pronouns: he/him/his
 - 🕸️ I love building for the web!
-- 📈 Currently focused on data science & visualization.
+- 📈 Currently focused on data science & visualization
 - 🐍 Loving Python & Pandas 🐼
 - 🖥️ Check out my website: https://scott-gall.com/
 - 📫 Message me: scottarthurgall@gmail.com
